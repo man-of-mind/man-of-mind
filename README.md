@@ -30,4 +30,5 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=man-of-mind&style=flat-square&color=blue" alt=""/>
   </div>
   <h1>Hi there 👋 </h1>
+  <h2>Call me man of mind </h2>
 </div>
